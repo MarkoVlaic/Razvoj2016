@@ -6,7 +6,7 @@ import java.io.InvalidClassException;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class PPLPresentation extends PPLPresentationElement{
+public class PPLPresentation{
 
     public PPLPresentation()
     {

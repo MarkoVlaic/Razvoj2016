@@ -9,7 +9,6 @@ public class Test1 {
         PPLPresentation presentation = new PPLPresentation();
         PPLSlide slide1 = new PPLSlide();
         slide1.addChild(new PPLText());
-        slide1.addChild(new PPLSlide());
         presentation.addChild(slide1);
     }
 

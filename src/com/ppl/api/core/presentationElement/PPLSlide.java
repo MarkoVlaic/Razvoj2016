@@ -5,7 +5,7 @@ import com.sun.javaws.exceptions.InvalidArgumentException;
 import java.io.InvalidClassException;
 import java.util.LinkedList;
 
-public class PPLSlide extends PPLPresentationElement {
+public class PPLSlide {
 
     public PPLSlide()
     {
