@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dcc7ffcb-f39a-415e-aa08-6541f63c603d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java" />
     </list>
     <ignored path="PPl.iws" />
@@ -50,12 +49,12 @@
       <file leaf-file-name="PPLSlide.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="378">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -730,12 +729,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="378">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
