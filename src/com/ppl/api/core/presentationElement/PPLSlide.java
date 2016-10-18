@@ -6,7 +6,7 @@ import jdk.nashorn.internal.runtime.ECMAException;
 import java.io.InvalidClassException;
 import java.util.LinkedList;
 
-public class PPLSlide {
+public class PPLSlide extends PPLPresentationElement{
 
     public PPLSlide()
     {
