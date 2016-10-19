@@ -9,7 +9,12 @@ public abstract class PPLPresentationElement {
     double x, y;
     PPLContent content;
     Queue<PPLPresentationElement> children;
-    Class guiElement;
+    Node guiElement;
 
     public abstract void addChild(PPLPresentationElement child);
+
+    public Node getGuiElement()
+    {
+        return guiElement;
+    }
 }

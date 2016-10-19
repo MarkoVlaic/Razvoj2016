@@ -6,15 +6,19 @@ import javafx.scene.control.Label;
 public class PPLTextContent extends PPLContent{
 
 
-    String content;
+    private String content;
 
     public PPLTextContent()
     {
         content = "";
     }
+    public PPLTextContent(String content)
+    {
+        this.content = content;
+    }
 
 
-    @Override
+    /*@Override
     public void display(Node node)
     {
         if(node.getClass() != Label.class){
@@ -26,11 +30,19 @@ public class PPLTextContent extends PPLContent{
         }
         Label txt = (Label)node;
         txt.setText(this.content);
-    }
+    }*/
 
     @Override
     public void setContent(Object content)
     {
         this.content = content.toString();
     }
+
+    @Override
+    public String getContent()
+    {
+        return content;
+    }
+
+
 }

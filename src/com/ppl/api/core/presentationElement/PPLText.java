@@ -8,7 +8,7 @@ public class PPLText extends PPLPresentationElement{
     public PPLText()
     {
         this.content = new PPLTextContent();
-        this.guiElement = Label.class;
+        this.guiElement = new Label();
     }
 
     @Override
@@ -20,4 +20,12 @@ public class PPLText extends PPLPresentationElement{
             e.printStackTrace();
         }
     }
+
+    public void setContent(PPLTextContent content)
+    {
+        this.content = content;
+        ((Label)guiElement).setText(content.getContent());
+    }
+
+
 }
