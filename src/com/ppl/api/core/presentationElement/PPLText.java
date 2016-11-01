@@ -9,6 +9,7 @@ public class PPLText extends PPLPresentationElement{
     {
         this.content = new PPLTextContent();
         this.guiElement = new Label();
+        setContent((PPLTextContent) this.content);
     }
 
     @Override

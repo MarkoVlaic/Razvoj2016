@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc7ffcb-f39a-415e-aa08-6541f63c603d" name="Default" comment="Primitive PPLText rendering&#10;Changes on all com.ppl.api.core classes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/test/GuiTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ppl/api/test/GuiTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/content/PPLContent.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/content/PPLContent.class" />
+    <list default="true" id="dcc7ffcb-f39a-415e-aa08-6541f63c603d" name="Default" comment="Added presentation functionality">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/content/PPLTextContent.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/content/PPLTextContent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLPresentation.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLPresentation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLPresentationElement.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLPresentationElement.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLSlide.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLSlide.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLText.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/core/presentationElement/PPLText.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/test/Test1.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/test/Test1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/test/GuiTest.class" afterPath="$PROJECT_DIR$/out/production/Razvoj_Softvera/com/ppl/api/test/GuiTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentationElement.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentationElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/test/Test1.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/test/Test1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ppl/api/test/GuiTest.java" afterPath="$PROJECT_DIR$/src/com/ppl/api/test/GuiTest.java" />
     </list>
     <ignored path="PPl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,52 +30,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ppl/api/test/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PPLPresentationElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentationElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GuiTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ppl/api/test/GuiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="159">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PPLSlide.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,48 +46,15 @@
       <file leaf-file-name="PPLPresentation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#1476#1477#0" expanded="true" />
+                <element signature="e#1516#1517#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PPLText.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PPLTextContent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PPLContent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -149,6 +69,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Marko Vlaic &lt;vlaic.marko@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -163,13 +88,13 @@
         <option value="$PROJECT_DIR$/src/com/ppl/api/core/PPLContent.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/notes" />
         <option value="$PROJECT_DIR$/notes" />
-        <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/test/Test1.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentationElement.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java" />
-        <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java" />
+        <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java" />
+        <option value="$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java" />
         <option value="$PROJECT_DIR$/src/com/ppl/api/test/GuiTest.java" />
       </list>
     </option>
@@ -204,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -316,10 +242,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -646,6 +574,14 @@
       <option name="presentableId" value="Default" />
       <updated>1476391220957</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primitive PPLText rendering&#10;Changes on all com.ppl.api.core classes">
+      <created>1476902441777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476902441777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -709,7 +645,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primitive PPLText rendering&#10;Changes on all com.ppl.api.core classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primitive PPLText rendering&#10;Changes on all com.ppl.api.core classes" />
+    <MESSAGE value="Added presentation functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added presentation functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -720,6 +657,51 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ppl/api/test/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -745,8 +727,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -757,8 +738,6 @@
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -769,6 +748,10 @@
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -806,8 +789,6 @@
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -818,6 +799,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -856,8 +841,6 @@
           <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -868,6 +851,10 @@
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -895,11 +882,12 @@
         <state relative-caret-position="594">
           <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
             <element signature="e#764#765#0" expanded="true" />
             <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -929,8 +917,6 @@
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -949,6 +935,10 @@
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -998,8 +988,6 @@
           <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1010,6 +998,10 @@
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1025,10 +1017,33 @@
     <entry file="file://$PROJECT_DIR$/src/com/ppl/api/test/PPLPresentationElement.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/notes" />
     <entry file="file://$PROJECT_DIR$/notes" />
-    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="126">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1054,57 +1069,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLContent.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/com/sun/javafx/event/CompositeEventHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="204">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        <state relative-caret-position="162">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/content/PPLTextContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLSlide.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ppl/api/core/presentationElement/PPLPresentation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ppl/api/test/GuiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="159">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
           </folding>
         </state>
       </provider>
